@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7e14d185-2c2b-4197-8157-a80096333e2e++5785",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7e14d185-2c2b-4197-8157-a80096333e2e++5785" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7e14d185-2c2b-4197-8157-a80096333e2e++5785" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "560C7B30-E065-4F40-991F-8E0435E2387D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7e14d185-2c2b-4197-8157-a80096333e2e++5785" : "1111\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "百度地图_Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "infoShow\/Tools\/百度地图_Demo\/百度地图_Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/localhost\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7e14d185-2c2b-4197-8157-a80096333e2e++5785"
+    }
+  ]
+}
